@@ -1,14 +1,14 @@
-online editor<br/>
-Eric<br/>
-Anmol<br/>
-Ganganaar<br/>
-Pointless text<br/>
-another text<br/>
-City added<br/>
+online editor
+Eric
+Anmol
+Ganganaar
+Pointless text
+another text
+City added
  ### Information
- Name - Aditya<br/>
- UserName - im-adi<br/>
-"BILIEVER"<br/>
-"ALWAYS AND FOREVER"<br/>
-Languages - C,C++,Python,Ruby ..<br/>
-skillset - Python|Ruby Dev,Front|Back end<br/>
+ Name - Aditya
+ UserName - im-adi
+"BILIEVER"
+"ALWAYS AND FOREVER"
+Languages - C,C++,Python,Ruby ..
+skillset - Python|Ruby Dev,Front|Back end
